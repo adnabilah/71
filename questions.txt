@@ -1,0 +1,14 @@
+- kapan pakai and atau &? see Sesi02 if dan Sesi03
+- kapan pakai '' dan ""?
+- untuk if kalau mau pakai atau (bukan &), pakai apa?
+- check latihan sesi02 tentang buah fav, ada cara untuk mempersingkat?
+- list_orang = [
+    {"umur": 16, "saldo": 125000, "harga": 25000},
+    {"umur": 17, "saldo": 125000, "harga": 250000},
+    {"umur": 18, "saldo": 125000, "harga": 250000},
+    {"umur": 19, "saldo": 125000, "harga": 25000},
+    {"umur": 20, "saldo": 125000, "harga": 250000},
+]
+itu disebut list atau dictionary atau list berisi dictionary?
+- lambda gausah pakai return udah selalu kesave?
+- gabisa otomatis ngasih kutip atau hashtag
